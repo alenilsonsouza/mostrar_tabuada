@@ -1,5 +1,6 @@
 <h1>Mostrar Tabuada</h1>
-<p>Script para melhorias</p>
+<p>Script de Criação de tabula</p>
+<p>Segue o script abaixo:</p>
 
 	<?php $numero = array(1,2,3,4,5,6,7,8,9);?>
 	<?php $total = count($numero);?>
@@ -12,3 +13,5 @@
 			</tr>
 		<?php endforeach;?>
 	</table>
+
+<p><strong>OBS: Fica livre para melhorias</strong></p>
